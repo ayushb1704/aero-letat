@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Player
+    m_Hash: 531988307
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Bird
+      m_Hash: 8978736
+      m_Sprite: {fileID: 660269455351720952, guid: 78bb7a6919f564d438630bd9f788d336, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 660269455351720952, guid: 78bb7a6919f564d438630bd9f788d336, type: 3}
+    - m_Name: Dragon
+      m_Hash: 544484482
+      m_Sprite: {fileID: 6989642852348889387, guid: 233747ced40e7a744979e7c3047a15c5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6989642852348889387, guid: 233747ced40e7a744979e7c3047a15c5, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638951193286998281
+  m_Version: 1
